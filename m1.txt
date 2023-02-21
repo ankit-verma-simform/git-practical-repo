@@ -1,1 +1,4 @@
 this is the master branch for the practical 2
+
+will use rebase command to rebase master on feature and 
+create pull request to merge the feature :)
